@@ -1,0 +1,21 @@
+{
+  "name": "Flipkart Theme",
+  "dataColors": [
+    "#2874F0",
+    "#FFCC00",
+    "#003366",
+    "#FFD633",
+    "#1A4D8F",
+    "#FF9933",
+    "#F5F5F5",
+    "#000000"
+  ],
+  "background": "#FFFFFF",
+  "foreground": "#000000",
+  "tableAccent": "#2874F0",
+  "textClasses": {
+    "title": { "color": "#2874F0", "fontSize": 18, "fontWeight": "bold" },
+    "header": { "color": "#003366", "fontSize": 14, "fontWeight": "bold" },
+    "label": { "color": "#000000", "fontSize": 11 }
+  }
+}
